@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My names is Carlos.
-- I'm 22 yers old.
+- I'm 22 years old.
 - 🌱 I'm currently studying Computer Engineering.
 
 Skils:
