@@ -9,7 +9,7 @@ Skils:
 - 🐍 Python
 - 🤖 Machine Learning
 - 🧠 Neural Networks / Tensorflow / Pytorch
-- 🌲 Sklearn
+- 🌲 SkLearn
 - 👁 Computer Vision
 
 <!--
