@@ -7,7 +7,7 @@
 Skils:
 - 🐧 Linux
 - 🐍 Python
-- 🤖 Machine Learning
+- 🤖 Deep Learning
 - 🧠 Neural Networks / Tensorflow / Pytorch
 - 🌲 SkLearn
 - 👁 Computer Vision
