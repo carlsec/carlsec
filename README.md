@@ -2,7 +2,7 @@
 
 - My names is Carlos.
 - I'm 22 yers old.
-- 🌱 I’m currently learning Computer Engineering.
+- 🌱 I'm currently studying Computer Engineering.
 
 Skils:
 - 🐧 Linux
