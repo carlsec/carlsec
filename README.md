@@ -3,6 +3,7 @@
 - My names is Carlos.
 - I'm 22 years old.
 - 🌱 I'm currently studying Computer Engineering.
+- ₿ Bitcoin
 
 Skils:
 - 🐧 Linux
