@@ -28,8 +28,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - <h3>Publications</h3>
+ - Classificador de Covid-19 por imagens de Raio-X.
+ - https://github.com/carlsec/detectorcovidxray
+
+ - Classificador de Mascaras.
+ - https://github.com/carlsec/detectormasks
+
  - Utilizando Visão Computacional para jogar pedra, papel e tesoura contra o computador.
  - https://github.com/carlsec/rps_classifier
  - https://carlsec.medium.com/utilizando-vis%C3%A3o-computacional-para-jogar-pedra-papel-e-tesoura-contra-o-computador-8d94e23ef9f1
- - ![plot](./rps.png)
+
