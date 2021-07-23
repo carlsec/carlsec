@@ -31,10 +31,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Projetos:
+Projetos de Data Science:
 * ***Detector de Covid com exame de diagnóstico por imagem - Raio X***: https://bit.ly/3BzpFq7
 * ***Classificador de mascaras com YoloV5 e FasterRCNN***: https://bit.ly/3x1G0AH
 * ***Jogo pedra papel e tesoura com visão computacional***: https://bit.ly/3iEU51H
 * ***Classificação de clientes maus pagadores***: https://bit.ly/3BxWaVH
 * ***Series temporais para previsões de vendas***: https://bit.ly/3y18OdT
 * ***Detector de pose com o MediaPipe para auxiliar em exercicios fisicos***: https://bit.ly/3iDVRjx
+
+Utilitarios:
+* ***Web Scraping OLX - Encontrar carros abaixo da tabela fipe:***: https://bit.ly/2W2VpUn
+
