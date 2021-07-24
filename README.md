@@ -38,6 +38,7 @@ Projetos de Data Science:
 * ***Classificação de clientes maus pagadores***: https://bit.ly/3BxWaVH
 * ***Series temporais para previsões de vendas***: https://bit.ly/3y18OdT
 * ***Detector de pose com o MediaPipe para auxiliar em exercicios fisicos***: https://bit.ly/3iDVRjx
+* ***Analise da Campanha Nacional de Vacinação contra Covid-19***: https://bit.ly/2WjjBCb
 
 Utilitarios:
 * ***Web Scraping OLX - Encontrar carros abaixo da tabela fipe:***: https://bit.ly/2W2VpUn
