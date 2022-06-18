@@ -4,11 +4,12 @@ Medium - https://carlsec.medium.com/
 
 - My names is Carlos.
 - I'm 22 years old.
+- 💻 Back-End Developer
 - 🌱 I'm currently studying Computer Engineering.
-- ₿ Bitcoin
 
 Skils:
 - 🐧 Linux
+- 💻 TypeScript
 - 🐍 Python
 - 📊 Data Science
 - 🤖 Deep Learning
