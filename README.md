@@ -3,9 +3,9 @@
 Medium - https://carlsec.medium.com/
 
 - My names is Carlos.
-- I'm 22 years old.
+- I'm 25 years old.
 - 💻 Back-End Developer
-- 🌱 I'm currently studying Computer Engineering.
+- 🌱 Computer Engineering.
 
 Skils:
 - 🐧 Linux
