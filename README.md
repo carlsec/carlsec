@@ -3,7 +3,7 @@
 - My names is Carlos.
 - I'm 27 years old.
 - 🤖 Data Engineer
-- 🌱 Pós-graduação em Engenharia de Dados.
+- 🌱 Postgraduate in Data Engineering.
 
 Skils:
 - 🐧 Linux
