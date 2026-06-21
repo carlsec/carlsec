@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-Medium - https://carlsec.medium.com/
-
 - My names is Carlos.
-- I'm 25 years old.
-- 💻 Back-End Developer
-- 🌱 Computer Engineering.
+- I'm 27 years old.
+- 🤖 AI Engineer
+- 🌱 Pós-graduação em Engenharia de Dados.
 
 Skils:
 - 🐧 Linux
